@@ -1,0 +1,12 @@
+"Phrases"
+{
+    "Prefix colored"
+    {
+        "en"    "7FFF00[Bonus round statistics] "
+    }
+
+    "Statistics disabled"
+    {
+        "en"    "The accounting of F5DEB3frags and F5DEB3deaths is disabled"
+    }
+}

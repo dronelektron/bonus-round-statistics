@@ -1,0 +1,7 @@
+"Phrases"
+{
+    "Statistics disabled"
+    {
+        "ru"    "Учёт F5DEB3убийств и F5DEB3смертей отключен"
+    }
+}
