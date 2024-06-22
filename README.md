@@ -1,6 +1,9 @@
 # Bonus round statistics
 
-Allows you to manipulate statistics in the bonus round
+Allows you to disable statistics in the bonus round:
+
+* Frags
+* Deaths
 
 ### Supported Games
 
