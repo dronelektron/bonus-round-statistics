@@ -3,5 +3,8 @@ void UseCase_RollBackStatistics(int victim, int attacker) {
     int attackerFrags = Client_GetFrags(attacker);
 
     Client_SetDeaths(victim, victimDeaths - 1);
-    Client_SetFrags(attacker, attackerFrags - 1);
+
+    if (victim != attacker) {
+        Client_SetFrags(attacker, attackerFrags - 1);
+    }
 }
