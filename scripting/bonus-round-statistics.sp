@@ -14,7 +14,7 @@ public Plugin myinfo = {
     name = "Bonus round statistics",
     author = "Dron-elektron",
     description = "Allows you to disable statistics in the bonus round",
-    version = "1.0.1",
+    version = "1.0.2",
     url = "https://github.com/dronelektron/bonus-round-statistics"
 };
 
