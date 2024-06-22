@@ -1,6 +1,9 @@
 # Bonus round statistics
 
-Allows you to manipulate statistics in the bonus round
+Allows you to disable statistics in the bonus round:
+
+* Frags
+* Deaths
 
 ### Supported Games
 
@@ -13,4 +16,4 @@ Allows you to manipulate statistics in the bonus round
 ### Installation
 
 * Download latest [release](https://github.com/dronelektron/bonus-round-statistics/releases)
-* Extract `plugins` folder to `addons/sourcemod` folder of your server
+* Extract `plugins` and `translations` folders to `addons/sourcemod` folder of your server
