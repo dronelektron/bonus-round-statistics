@@ -12,6 +12,7 @@ Allows you to disable statistics in the bonus round:
 ### Requirements
 
 * [SourceMod](https://www.sourcemod.net) 1.11 or later
+* [bonus-round-events](https://github.com/dronelektron/bonus-round-events)
 
 ### Installation
 
